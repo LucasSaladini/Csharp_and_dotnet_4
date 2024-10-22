@@ -1,0 +1,15 @@
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/bin/Debug/net8.0/Anatomia
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/bin/Debug/net8.0/Anatomia.deps.json
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/bin/Debug/net8.0/Anatomia.runtimeconfig.json
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/bin/Debug/net8.0/Anatomia.dll
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/bin/Debug/net8.0/Anatomia.pdb
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.GeneratedMSBuildEditorConfig.editorconfig
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.AssemblyInfoInputs.cache
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.AssemblyInfo.cs
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.csproj.CoreCompileInputs.cache
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.sourcelink.json
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.dll
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/refint/Anatomia.dll
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.pdb
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/Anatomia.genruntimeconfig.cache
+/home/apocalypse/Projects/Csharp_and_dotnet_4/Principais_Construções_da_Programação_CSharp/Anatomia/obj/Debug/net8.0/ref/Anatomia.dll
