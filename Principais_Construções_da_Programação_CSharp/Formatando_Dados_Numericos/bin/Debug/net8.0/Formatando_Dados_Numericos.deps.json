@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Formatando_Dados_Numericos/1.0.0": {
+        "runtime": {
+          "Formatando_Dados_Numericos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formatando_Dados_Numericos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
